@@ -1,5 +1,5 @@
 aid: pacer-case-locator-pcl-
-url: >-
+url: >2-
 
   https://raw.githubusercontent.com/api-search/pacer-case-locator-pcl-/refs/heads/main/apis.yml
 apis:
@@ -13,11 +13,10 @@ apis:
     properties:
       - url: https://pacer.uscourts.gov/file-case/developer-resources
         type: Documentation
-    description: |-
-
-      The PACER Case Locator (PCL) is a nationwide index of federal court cases.
-      The public PCL API allows users to programmatically search the PCL for
-      federal cases ...
+    description: >-
+      The PACER Case Locator (PCL) is a nationwide index of federal court cases. The
+      public PCL API allows users to programmatically search the PCL for federal cases
+      ...
 name: PACER Case Locator (PCL)
 tags:
   - Legal
@@ -27,11 +26,9 @@ access: 3rd-Party
 created: '2024-11-20'
 modified: '2024-12-10'
 position: Consumer
-description: |-
-
-  The PACER Case Locator (PCL) is a nationwide index of federal court cases. The
-  public PCL API allows users to programmatically search the PCL for federal
-  cases ...
+description: >-
+  The PACER Case Locator (PCL) is a nationwide index of federal court cases. The public
+  PCL API allows users to programmatically search the PCL for federal cases ...
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
