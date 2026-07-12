@@ -39,12 +39,16 @@ apis:
       - type: Contact
         url: mailto:developers@psc.uscourts.gov
 common:
+  - type: DomainSecurity
+    url: security/pacer-case-locator-pcl--domain-security.yml
   - type: Website
     url: https://pacer.uscourts.gov
   - type: Documentation
     url: https://pacer.uscourts.gov/file-case/developer-resources
   - type: Contact
     url: mailto:developers@psc.uscourts.gov
+  - url: https://pacer.uscourts.gov/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
