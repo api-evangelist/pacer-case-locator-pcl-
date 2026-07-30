@@ -6,7 +6,19 @@ description: >-
   federal cases across U.S. district, bankruptcy, and appellate courts using
   the same search functionality and dataset as the PCL web application.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pacer-case-locator-pcl-.png
 tags:
   - Courts
   - Federal Cases
