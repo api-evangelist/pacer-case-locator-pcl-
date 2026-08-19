@@ -30,7 +30,7 @@ created: '2024-11-20'
 modified: '2026-04-28'
 position: Consumer
 access: 3rd-Party
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: pacer-case-locator-pcl-:pacer-case-locator-pcl-
     name: PACER Case Locator (PCL) API
