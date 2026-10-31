@@ -1,4 +1,4 @@
-# PACER Case Locator (PCL) (pacer-case-locator-pcl-)
+# PACER Case Locator (PCL)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,54 +66,101 @@
 
 The PACER Case Locator (PCL) is a nationwide index of federal court cases. The public PCL API allows users to programmatically search the PCL for federal cases across U.S. district, bankruptcy, and appellate courts using the same search functionality and dataset as the PCL web application.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/pacer-case-locator-pcl-/refs/heads/main/apis.yml)
+**Areas:** Courts · Federal Cases · Government · Legal
 
-## Scope
+## PACER Case Locator (PCL) on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for PACER Case Locator (PCL) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pacer-case-locator-pcl-/](https://apis.io/providers/pacer-case-locator-pcl-/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Courts
-- Federal Cases
-- Government
-- Legal
+- [PACER Case Locator (PCL) API](https://apis.io/apis/pacer-case-locator-pcl-/pacer-case-locator-pcl-/) — The PACER Case Locator (PCL) API allows users to programmatically search the nationwide index of federal court cases for U.S. district, bankruptcy, and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-11-20
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### PACER Case Locator (PCL) API
+Authentication, trust centre, and vulnerability disclosure.
 
-The PACER Case Locator (PCL) API allows users to programmatically search the nationwide index of federal court cases for U.S. district, bankruptcy, and appellate courts.
+- [Pacer Case Locator Pcl  Domain Security](https://apis.io/security/pacer-case-locator-pcl-/pacer-case-locator-pcl--domain-security/)
 
-**Human URL:** [https://pacer.uscourts.gov/file-case/developer-resources](https://pacer.uscourts.gov/file-case/developer-resources)
+#### Plans and pricing (1)
 
-#### Tags
+Published plans, tiers and prices.
 
-- Courts
-- Federal Cases
-- Legal
+- [Pacer Case Locator Pcl  Plans Pricing](https://apis.io/plans/pacer-case-locator-pcl-/pacer-case-locator-pcl--plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
+Published request limits.
+
+- [Pacer Case Locator Pcl  Rate Limits](https://apis.io/rate-limits/pacer-case-locator-pcl-/pacer-case-locator-pcl--rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Pacer Case Locator Pcl  Finops](https://apis.io/finops/pacer-case-locator-pcl-/pacer-case-locator-pcl--finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pacer.uscourts.gov)
 - [Documentation](https://pacer.uscourts.gov/file-case/developer-resources)
-- [Authentication](https://pacer.uscourts.gov/help/pacer/pacer-authentication-api-user-guide)
-- Contact: developers@psc.uscourts.gov
+- [Blog](https://pacer.uscourts.gov/rss.xml)
 
-## Common Properties
+## API Evangelist rating
 
-| Property | URL |
-|----------|-----|
-| Website | https://pacer.uscourts.gov |
-| Documentation | https://pacer.uscourts.gov/file-case/developer-resources |
-| Contact | developers@psc.uscourts.gov |
+**Kin Score 12.0** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 7.9 |
 
-- **Kin Lane** - kin@apievangelist.com
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pacer-case-locator-pcl-/](https://apis.io/providers/pacer-case-locator-pcl-/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PACER Case Locator (PCL): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pacer-case-locator-pcl-/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
